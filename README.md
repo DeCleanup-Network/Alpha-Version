@@ -11,13 +11,13 @@ The alpha version of the DeCleanUP (DCU) NFT collection comprises a series of dy
 
 **Traits**
 
-Category - Cleanup NFT 
-Type - Dynamic
-Impact - Environment
-Rarity - Common (rare, legendary)
-Impact Value - 1 (2, 3, 4, 5...)
-$DCU - 10 (20, 30, 40...)
-Level - newbie (pro, hero, guardian) 
+- Category: Cleanup NFT (same for all)
+- Type: Dynamic (same for all)
+- Impact: Environment (same for all)
+- Rarity: Common 1-3, Rare 4-6, Legendary 7-9, Unique 10
+- Impact Value - 1 (2, 3, 4, 5...)
+- $DCU - 10 (20, 30, 40...)
+- Level - Newbie 1-3, Pro 4-6, Hero 7-9, Guardian 10
 
 **DApp:**
 
