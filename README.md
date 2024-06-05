@@ -9,6 +9,8 @@ The alpha version features a dynamic, multichain NFT collection that rewards par
 
 **NFT Collection:**
 
+![DCU NFT](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmZkhnH47fww3Bvbgq9tW6VcbjazxErLEiTteueWPtL7sd)
+
 The alpha version of the DeCleanup (DCU) NFT collection comprises a series of dynamic, multichain NFTs designed to incentivize and reward participants for their environmental cleanup efforts. This initial collection features images that are changing depending on the amount of cleanups done.
 
 - **Dynamic NFTs:** Each NFT can be upgraded as users complete and provide Proof of Impact with more cleanups, showcasing their commitment and progress in environmental stewardship.
