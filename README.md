@@ -1,9 +1,15 @@
-# Alpha-Version
+# DeCleanup
+
+DeCleanup is a blockchain-based platform designed to incentivize and reward global environmental cleanup efforts through digital assets. Participants use a decentralized application (DApp) to document cleanups, submit evidence, and receive digital rewards, fostering global participation in environmental stewardship.
+
+## Alpha Version
+The alpha version features a dynamic, multichain NFT collection that rewards participants for their environmental cleanup efforts. These NFTs are compatible with multiple blockchain networks and can be upgraded as users complete more cleanups, showcasing their commitment and progress.
+
 ### Alpha Version Description of NFT Collection and DApp
 
 **NFT Collection:**
 
-The alpha version of the DeCleanUP (DCU) NFT collection comprises a series of dynamic, multichain NFTs designed to incentivize and reward participants for their environmental cleanup efforts. This initial collection features images that are changing depending on the amount of cleanups done.
+The alpha version of the DeCleanup (DCU) NFT collection comprises a series of dynamic, multichain NFTs designed to incentivize and reward participants for their environmental cleanup efforts. This initial collection features images that are changing depending on the amount of cleanups done.
 
 - **Dynamic NFTs:** Each NFT can be upgraded as users complete and provide Proof of Impact with more cleanups, showcasing their commitment and progress in environmental stewardship.
 - **Multichain Compatibility:** The NFTs are compatible across multiple blockchain networks, including Optimism, Base, Celo, and Arbitrum, ensuring wide accessibility and use.
@@ -21,7 +27,7 @@ The alpha version of the DeCleanUP (DCU) NFT collection comprises a series of dy
 
 **DApp:**
 
-The DeCleanUP (DCU) decentralized application (DApp) is a user-friendly platform designed to facilitate and track environmental cleanup activities. It serves as the primary interface for participants to document their efforts, claim rewards, and engage with the community.
+The DeCleanup (DCU) decentralized application (DApp) is a user-friendly platform designed to facilitate and track environmental cleanup activities. It serves as the primary interface for participants to document their efforts, claim rewards, and engage with the community.
 
 Key Features:
 - **User Authentication:** Participants can log in securely using their blockchain wallets, ensuring privacy and security.
