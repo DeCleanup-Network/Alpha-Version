@@ -8,7 +8,7 @@ DeCleanup Network is a blockchain-based platform designed to incentivize and rew
 
 ![Screenshot of the Main Page](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmWjckBnwWkidWtTQwR17TrQWoo9j3FX5LLwRg8s3n12cN)
 
-To date, we have launched the test dApp on the Arbitrum chain. You can visit the test page [here](https://dcutest.netlify.app/). The mint will be live on 09.08.2024 on [Decleanup.Net](https://decleanup.net).
+To date, we have launched the test dApp on the Arbitrum chain. You can visit the test page [here](https://dcutest.netlify.app/). The mint will be live on 09.08.2024 at [Decleanup.Net](https://decleanup.net).
 
 The main feature of our rewards program is the collection of dynamic NFTs, themed around cleanup activities and designed to incentivize and reward participants for their environmental cleanup efforts. Each NFT reward can be upgraded (with 10 steps of progress) as users provide photos from different cleanup events.
 
