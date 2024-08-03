@@ -47,10 +47,17 @@ We also collaborate with projects that create various cleanup incentives. For ex
 
 ![The Roadmap](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmcAgDypdKSRtUkoaBGp3puYRWEuyEjT5BauuVmXDYz7y1)
 
-1. **Community Activation**: Partnering with more communities, NGOs, and startups worldwide.
-2. **Marketing Campaign**: Continuous process of raising awareness and encouraging participation through social media, partnerships, and community events.
-3. **Enhancement of Verification System**: Improving verification methods for cleanup proofs..
-4. **DeCleanup Network 2.0**: Further development and expansion of the platform's features and reach.
+The roadmap in the image provides a step-by-step plan for the DeCleanup Network’s development and expansion:
+
+1. **Launch (9.08.2024)**: The project begins with its initial launch on the Arbitrum chain, introducing first three levels of rewards to incentivize early participants.
+
+2. **Communities Activation (22.09.2024)**: This phase focuses on finishing onboarding of partners onboard, including both leaders and participants, to establish a foundation for the network's growth.
+
+3. **Marketing (Q4 2024)**: Marketing efforts aim to engage communities, drive participation, build partnerships, and promote key initiatives like Monthly Earth Day events.
+
+4. **Expansion (Q2 2025)**: The platform eventually expands to multiple blockchain networks, increasing its reach and involving more global communities and partners.
+
+5. **DeCleanup 2.0 (Q4 2025)**: This final phase involves the full rollout of the platform with all planned features, evaluating performance, refining strategies, and ensuring the project’s sustainability for long-term success.
 
 ### Conclusion
 
