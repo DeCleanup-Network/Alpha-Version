@@ -39,7 +39,7 @@ We also collaborate with projects that create various cleanup incentives. For ex
 
 ### What Needs To Be Done
 
-![The Roadmap](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmPufuQNqPPui6RFRFrBNzvf2ipATGZLzmgBH8ZmTVL1Pp)
+![The Roadmap](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmcAgDypdKSRtUkoaBGp3puYRWEuyEjT5BauuVmXDYz7y1)
 
 1. **Community Activation**: Partnering with more communities, NGOs, and startups worldwide.
 2. **Marketing Campaign**: Continuous process of raising awareness and encouraging participation through social media, partnerships, and community events.
