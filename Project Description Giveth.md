@@ -39,6 +39,8 @@ We also collaborate with projects that create various cleanup incentives. For ex
 
 ### What Needs To Be Done
 
+![The Roadmap](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmPufuQNqPPui6RFRFrBNzvf2ipATGZLzmgBH8ZmTVL1Pp)
+
 1. **Community Activation**: Partnering with more communities, NGOs, and startups worldwide.
 2. **Marketing Campaign**: Continuous process of raising awareness and encouraging participation through social media, partnerships, and community events.
 3. **Enhancement of Verification System**: Improving verification methods for cleanup proofs..
