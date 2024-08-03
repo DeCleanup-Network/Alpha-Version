@@ -6,7 +6,11 @@ DeCleanup Network is a blockchain-based platform designed to incentivize and rew
 
 #### DApp and Dynamic NFT Collection
 
-To date, we have launched the dApp for claiming cleanup rewards on the Arbitrum chain. You can visit the mint page [here](https://decleanup.net/). The main feature of our rewards program is the collection of dynamic NFTs, themed around cleanup activities and designed to incentivize and reward participants for their environmental cleanup efforts. Each NFT reward can be upgraded (with 10 steps of progress) as users provide photos from different cleanup events.
+![Screenshot of the Main Page](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmWjckBnwWkidWtTQwR17TrQWoo9j3FX5LLwRg8s3n12cN)
+
+To date, we have launched the test dApp on the Arbitrum chain. You can visit the test page [here](https://dcutest.netlify.app/). The mint will be live on 09.08.2024 on [Decleanup.Net](https://decleanup.net).
+
+The main feature of our rewards program is the collection of dynamic NFTs, themed around cleanup activities and designed to incentivize and reward participants for their environmental cleanup efforts. Each NFT reward can be upgraded (with 10 steps of progress) as users provide photos from different cleanup events.
 
 The collection items have common traits that remain consistent with each NFT upgrade:
 - **Category**: Cleanup NFT
@@ -22,6 +26,8 @@ And dynamic traits which grow with every cleanup done:
 - **DCU Points**: 10 (first cleanup) to 100 (last cleanup)
 
 While the first two categories of traits determine the general information required for this product’s classification on the Impact Marketplace, and also gives the ranking to the user, the last category are main dynamic traits, which will determine the value of the NFT on the Impact Marketplace in the future and user’s onchain rank. Read more on this topic in the article by EcoSynthesisX [here](https://mirror.xyz/ecosynthesisx.eth/zOdeuaeFfJUFScZZKu1OGF7cWCiRgUHQSGE-14cf8fo).
+
+![Example of Traits](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmfUA1PomqfsXPZod2oo79nrMq17xT1Rxo8EdWxwFFVHxM)
 
 #### Establishing Initial Partnerships
 
