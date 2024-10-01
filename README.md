@@ -10,7 +10,7 @@ DeCleanup Network is a decentralized application (DApp) designed to incentivize 
 
 **Contribution to Ecosystem Growth**: By driving environmental action and integrating blockchain technology, DeCleanup encourages global participation, boosting new wallets activity and community engagement.
 
-**Innovation in Application**: The platform uses NFTs that evolve with each contribution, combined with leaderboards and gamification via [Guild XYZ](https://guild.xyz/decleanup-network) giving users interactive ways to earn rewards while supporting environmental causes.
+**Innovation in Application**: The platform uses NFTs that evolve with each contribution, combined with leaderboards and gamification via [Guild XYZ](https://guild.xyz/decleanup-network) giving users interactive ways to earn additional points while supporting our community campaign. The top of the leaderboard will make it to whitelist.
 
 # What Has Been Done
 
