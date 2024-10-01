@@ -36,7 +36,7 @@ While the first two categories of traits determine the general information requi
 ![Example of Traits](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmfUA1PomqfsXPZod2oo79nrMq17xT1Rxo8EdWxwFFVHxM)
 
 DApp GitHub repository - 🔗👉 https://github.com/DeCleanUp-DCU/Dapp
-Smart Contract GitHub Repository - 🔗👉 
+Smart Contract GitHub Repository - 🔗👉 https://github.com/DeCleanUp-DCU/Smart-Contract
 
 
 ## Establishing Initial Partnerships
