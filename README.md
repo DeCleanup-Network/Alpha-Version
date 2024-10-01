@@ -35,6 +35,10 @@ While the first two categories of traits determine the general information requi
 
 ![Example of Traits](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmfUA1PomqfsXPZod2oo79nrMq17xT1Rxo8EdWxwFFVHxM)
 
+DApp GitHub repository - 🔗👉 https://github.com/DeCleanUp-DCU/Dapp
+Smart Contract GitHub Repository - 🔗👉 
+
+
 ## Establishing Initial Partnerships
 
 We have completed initial community outreach, partnering with key networks such as GreenPill Phangan and ReFi Phangan, which are active in the Monthly Earth Day movement. Additional partnerships with Aqua Purge web3, ReFi Tulum, and HEMJapan have furthered our global reach. These networks organize regular cleanups and contribute to the growing momentum of the DeCleanup initiative.
