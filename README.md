@@ -37,6 +37,7 @@ While the first two categories of traits determine the general information requi
 
 DApp GitHub repository - 🔗👉 https://github.com/DeCleanUp-DCU/Dapp
 Smart Contract GitHub Repository - 🔗👉 https://github.com/DeCleanUp-DCU/Smart-Contract
+
 [Arbiscan](https://arbiscan.io/address/0xf21389b64e0eb749fd150d0c44742692e19a69c8) 
 
 ## Establishing Initial Partnerships
