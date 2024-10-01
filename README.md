@@ -1,34 +1,57 @@
-![DeCleanup Network](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmW2ii8GgyJSuvDnPbsyrjDsFZB34YEb35D2Ymo5PiF12B)
+# Basic Details
 
-## DeCleanup Network
+DeCleanup Network is a decentralized application (DApp) designed to incentivize global environmental cleanup efforts through digital assets. Participants document cleanups, submit evidence, and earn dynamic NFTs that evolve based on their contributions. The platform promotes environmental stewardship globally, with plans to scale across multiple blockchain ecosystems.
 
-### Overview
+# DeCleanup Network Description
 
-DeCleanup Network is a blockchain-based platform designed to incentivize and reward global environmental cleanup efforts through digital assets. By leveraging blockchain technology, DeCleanup creates a transparent and verifiable system for rewarding individuals and communities for their environmental contributions. Participants use a decentralized application (DApp) to document cleanups, submit evidence, and receive digital rewards.
+**User-Centric Design & Functionality**: DeCleanup offers a user-friendly experience with an intuitive DApp that allows individuals and communities to easily document their cleanup activities and earn dynamic NFTs as rewards. The verification system is built in a way that users can relatively quickly get verified and claim the reward. We chose Arbitrum chain for low gas fees, made only first level claim’s gas fees paid by user and the rest of dynamic experience is gasless. . 
 
-### Features
+**Contribution to Ecosystem Growth**: By driving environmental action and integrating blockchain technology, DeCleanup encourages global participation, boosting new wallets activity and community engagement.
 
-- **Dynamic NFT Collection**: Upgradeable NFTs representing cleanup progress, with unique traits and levels.
-- **Community Partnerships**: Collaborations with global communities, NGOs, and startups to organize Monthly Earth Day cleanups and other initiatives.
-- **Impact Points**: Earn DCU points and Impact Value for verified cleanups, which contribute to on-chain reputation and further incentives.
+**Innovation in Application**: The platform uses NFTs that evolve with each contribution, combined with leaderboards and gamification via [Guild XYZ](https://guild.xyz/decleanup-network) giving users interactive ways to earn rewards while supporting environmental causes.
 
-### Getting Started
+# What Has Been Done
 
-1. **Mint NFTs**: Visit the [mint page](link to mint page) to get started.
-2. **Participate in Cleanups**: Engage in local cleanups, document efforts, and submit evidence through the DApp.
-3. **Earn Rewards**: Receive dynamic NFTs and accumulate DCU points and Impact Value.
+## DApp and Dynamic NFT Collection
 
-### Partnerships
+![9 Levels NFTs](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmZELVjF8H5VvG1BxhunXK4n6LuK17RBuis5yRepEqxARk)
 
-We collaborate with various projects and communities, such as GreenPill Phangan, ReFi Phangan, Aqua Purge web3, and ReFi Tulum. These partnerships help drive our mission and expand our reach.
+The collection items have common traits that remain consistent with each NFT upgrade:
+- **Category**: Cleanup NFT
+- **Type**: Dynamic
+- **Impact**: Environment
 
-### Future Plans
+There are dynamic traits, which grow every three cleanups:
+- **Rarity**: Common (1-3 cleanups), Rare (4-6 cleanups), Legendary (7-9 cleanups), Unique (10 cleanups)
+- **Level**: Newbie (1-3 cleanups), Pro (4-6 cleanups), Hero (7-9 cleanups), Guardian (10 cleanups)
 
-- **Community Activation**: Partnering with more communities and organizations.
-- **Marketing Campaign**: Raising awareness through social media and events.
-- **Enhancement of Verification System**: Improving methods for verifying cleanup activities.
-- **DeCleanup Network 2.0**: Further development and expansion of platform features.
+And dynamic traits which grow with every cleanup done:
+- **Impact Value**: 1 (first cleanup) to 10 (last cleanup)
+- **DCU Points**: 10 (first cleanup) to 100 (last cleanup)
 
-### Conclusion
+While the first two categories of traits determine the general information required for this product’s classification on the Impact Marketplace, and also gives the ranking to the user, the last category are main dynamic traits, which will determine the value of the NFT on the Impact Marketplace in the future and user’s onchain rank. Read more on this topic in the article by EcoSynthesisX [here](https://mirror.xyz/ecosynthesisx.eth/zOdeuaeFfJUFScZZKu1OGF7cWCiRgUHQSGE-14cf8fo).
 
-DeCleanup Network promotes environmental stewardship by incentivizing cleanup efforts through blockchain technology. Join us in making a difference. For more information, visit our [Linktree](https://linktr.ee/DecentralizedCleanup).
+![Example of Traits](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmfUA1PomqfsXPZod2oo79nrMq17xT1Rxo8EdWxwFFVHxM)
+
+## Establishing Initial Partnerships
+
+We have completed initial community outreach, partnering with key networks such as GreenPill Phangan and ReFi Phangan, which are active in the Monthly Earth Day movement. Additional partnerships with Aqua Purge web3, ReFi Tulum, and HEMJapan have furthered our global reach. These networks organize regular cleanups and contribute to the growing momentum of the DeCleanup initiative.
+
+Notably, [HEMJapan](https://x.com/hemjapan?s=21) impressed with 12 new wallets already participating in our rewards system. 
+
+We also collaborate with projects that create various cleanup incentives. For example, DeCleanup and [Cleanify](https://x.com/cleanify_vet?s=21) have a collaborative strategy to promote each other, motivating both communities to organize more cleanups, and providing additional incentives for them.
+
+## What Needs To Be Done
+
+![The Roadmap](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmcAgDypdKSRtUkoaBGp3puYRWEuyEjT5BauuVmXDYz7y1)
+
+The roadmap highlights the following stages for development and expansion:
+
+1. **Community Activation (22.11.2024)**: Finalize partner onboarding and establish the foundation for continued network growth.
+2. **Marketing (Q4 2024)**: Engage more communities through focused marketing and participation in events such as Monthly Earth Day.
+3. **Expansion (Q2 2025)**: Scale the platform to multiple blockchain networks to increase reach and global participation.
+4. **DeCleanup 2.0 (Q4 2025)**: Launch full platform features, evaluate performance, and refine strategies for long-term sustainability.
+
+## Conclusion
+
+DeCleanup Network combines environmental responsibility with blockchain technology, fostering a global movement toward sustainability. By engaging communities and integrating into larger blockchain ecosystems, DeCleanup amplifies the impact of public goods while rewarding participants for their contributions to a cleaner world.
