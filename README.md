@@ -1,8 +1,5 @@
-# Basic Details
-
-![Screenshot of the Main Page](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmWjckBnwWkidWtTQwR17TrQWoo9j3FX5LLwRg8s3n12cN)
-
 DeCleanup Network is a decentralized application (DApp) designed to incentivize global environmental cleanup efforts through digital assets. Participants document cleanups, submit evidence, and earn dynamic NFTs that evolve based on their contributions. The platform promotes environmental stewardship globally, with plans to scale across multiple blockchain ecosystems.
+![Screenshot of the Main Page](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmWjckBnwWkidWtTQwR17TrQWoo9j3FX5LLwRg8s3n12cN)
 
 # DeCleanup Network Description
 
