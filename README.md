@@ -13,7 +13,7 @@ The platform promotes environmental stewardship globally, with plans to activate
 
 **Smart Contract onchain** [Arbiscan](https://arbiscan.io/address/0xf21389b64e0eb749fd150d0c44742692e19a69c8) 
 
-## ### Uniqueness
+## Uniqueness
 
 **How DeCleanup dApp works**: Participants engage in cleanups, submit proof via photos, and earn dynamic NFTs that evolve based on their contributions. More details [here](https://mirror.xyz/decleanupnet.eth/ZzncKRu-Q-leEZkQ48Txm-NQRxG_hH3V3wyHaYUKfYI).
 
