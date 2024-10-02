@@ -1,9 +1,12 @@
-DeCleanup Network is a decentralized application (DApp) designed to incentivize global environmental cleanup efforts through digital assets. Participants document cleanups, submit evidence, and earn dynamic NFTs that evolve based on their contributions. The platform promotes environmental stewardship globally, with plans to scale across multiple blockchain ecosystems.
+DeCleanup Network is a decentralized application (dApp) build on Arbitrum and designed to a) tokenize irl impact cerated via global/local cleanup efforts and b) incentivize environmental actions via DeFi mechanics. The platform promotes environmental stewardship globally, with plans to activate global/local communities and scale across multiple blockchain ecosystems.
+
 ![Screenshot of the Main Page](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmWjckBnwWkidWtTQwR17TrQWoo9j3FX5LLwRg8s3n12cN)
 
-# DeCleanup Network Description
+**How DeCleanup dApp works** Participants do cleanups, submit proof (photo), and earn dynamic NFTs that evolve based on their contributions. Read more details here https://mirror.xyz/decleanupnet.eth/ZzncKRu-Q-leEZkQ48Txm-NQRxG_hH3V3wyHaYUKfYI
 
-**User-Centric Design & Functionality**: DeCleanup offers a user-friendly experience with an intuitive DApp that allows individuals and communities to easily document their cleanup activities and earn dynamic NFTs as rewards. The verification system is built in a way that users can relatively quickly get verified and claim the reward. We chose Arbitrum chain for low gas fees, made only first level claim’s gas fees paid by user and the rest of dynamic experience is gasless. . 
+Ream more at our Guide https://mirror.xyz/decleanupnet.eth/A5uzOpx9HUgXZEopCKUsbgffw9SajL4Q9eECgrguq-4
+
+**User-Centric Design & Functionality**: DeCleanup dApp offers a user-friendly experience with an intuitive DApp that allows individuals and communities to easily document their cleanup activities and earn dynamic NFTs as rewards. The verification system is built in a way that users can relatively quickly get verified and claim the reward. We chose Arbitrum chain for low gas fees, made only first level claim’s gas fees paid by user and the rest of dynamic experience is gasless. . 
 
 **Contribution to Ecosystem Growth**: By driving environmental action and integrating blockchain technology, DeCleanup encourages global participation, boosting new wallets activity and community engagement.
 
@@ -54,7 +57,7 @@ The roadmap highlights the following stages for development and expansion:
 1. **Community Activation (22.11.2024)**: Finalize partner onboarding and establish the foundation for continued network growth.
 2. **Marketing (Q4 2024)**: Engage more communities through focused marketing and participation in events such as Monthly Earth Day.
 3. **Expansion (Q2 2025)**: Scale the platform to multiple blockchain networks to increase reach and global participation.
-4. **DeCleanup 2.0 (Q4 2025)**: Launch full platform features, evaluate performance, and refine strategies for long-term sustainability.
+4. **DeCleanup 2.0 (Q3 2025)**: Launch full platform features, evaluate performance, and refine strategies for long-term sustainability.
 
 ## Conclusion
 
