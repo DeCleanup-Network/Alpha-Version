@@ -1,6 +1,16 @@
-DeCleanup Rewards is a decentralized application (dApp) build on Arbitrum and designed to a) tokenize irl impact cerated via global/local cleanup efforts and b) incentivize environmental actions via DeFi mechanics. The platform promotes environmental stewardship globally, with plans to activate global/local communities and scale across multiple blockchain ecosystems.
+**DeCleanup Rewards** is a decentralized application (dApp) build on Arbitrum and designed to a) **tokenize irl impact cerated via global/local cleanup efforts** and b) **incentivize environmental actions via DeFi mechanics**. The platform promotes environmental stewardship globally, with plans to activate global/local communities and scale across multiple blockchain ecosystems.
 
 ![Screenshot of the Main Page](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmWjckBnwWkidWtTQwR17TrQWoo9j3FX5LLwRg8s3n12cN)
+
+## OSS data
+
+**dApp GitHub repository** - 🔗👉 https://github.com/DeCleanUp-DCU/Dapp
+
+**Smart Contract GitHub Repository** - 🔗👉 https://github.com/DeCleanUp-DCU/Smart-Contract
+
+**Smart Contract onchain** [Arbiscan](https://arbiscan.io/address/0xf21389b64e0eb749fd150d0c44742692e19a69c8) 
+
+## Uniqueness 
 
 **How DeCleanup dApp works** Participants do cleanups, submit proofs (photo), and earn dynamic NFTs that evolve based on their contributions. Read more details here https://mirror.xyz/decleanupnet.eth/ZzncKRu-Q-leEZkQ48Txm-NQRxG_hH3V3wyHaYUKfYI
 
@@ -36,11 +46,6 @@ While the first two categories of traits determine the general information requi
 
 ![Example of Traits](https://beige-defiant-spoonbill-537.mypinata.cloud/ipfs/QmfUA1PomqfsXPZod2oo79nrMq17xT1Rxo8EdWxwFFVHxM)
 
-dApp GitHub repository - 🔗👉 https://github.com/DeCleanUp-DCU/Dapp
-Smart Contract GitHub Repository - 🔗👉 https://github.com/DeCleanUp-DCU/Smart-Contract
-
-[Arbiscan](https://arbiscan.io/address/0xf21389b64e0eb749fd150d0c44742692e19a69c8) 
-
 ## Partnerships and Community Activation
 
 + Initial community outreach was established by partnering with key networks such as GreenPill Phangan and ReFi Phangan, which are active in the Monthly Earth Day movement. Additional partnerships with Aqua Purge web3, ReFi Tulum, and HEMJapan have furthered our global reach. These networks organize regular cleanups and contribute to the growing momentum of the DeCleanup initiative. (!) Ssilochek moget dobavit' esli est' (!)
@@ -58,4 +63,4 @@ The roadmap highlights the following stages for development and expansion:
 1. **Community Activation (22.11.2024)**: Finalize partner onboarding and establish the foundation for continued network growth.
 2. **Marketing (Q4 2024)**: Engage more communities through focused marketing and participation in events such as Monthly Earth Day.
 3. **Expansion (Q2 2025)**: Scale the platform to multiple blockchain networks to increase reach and global participation.
-4. **DeCleanup 2.0 (Q3 2025)**: Launch full platform features, evaluate performance, and refine strategies for long-term sustainability.
+4. **DeCleanup 2.0 (Q4 2025)**: Launch full platform features, evaluate performance, and refine strategies for long-term sustainability.
